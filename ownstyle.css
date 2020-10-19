@@ -1,0 +1,11 @@
+body {
+	margin-top: 100;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 18px;
+	color: #444;
+	text-align: left;
+	background-color: snow;
+    
+	overflow: auto;
+}
+
